@@ -19,7 +19,7 @@ namespace ConsoleApp2
                 double a = double.Parse(Console.ReadLine());
                 Console.WriteLine("введите b");
                 double b = double.Parse(Console.ReadLine());
-                Console.WriteLine("введите z");
+                Console.WriteLine("введите с");
                 double c = double.Parse(Console.ReadLine());
                 Console.WriteLine("введите d");
                 double d = double.Parse(Console.ReadLine());
